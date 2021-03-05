@@ -4,3 +4,4 @@
     * Question 2 - Calculate weighted GPA
 * 7.5 Code Practice
     * Question 1 - Calculate weighted GPA via classes.
+* Assignment 7 - Calender
