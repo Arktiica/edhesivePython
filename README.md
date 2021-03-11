@@ -19,3 +19,5 @@
    * Question 1 - Uppercase Only
    * Question 2 - "A" Words Only
    * Question 3 - Length of Array Elements
+* 8.9 Code Practice
+   * Question 1 - Search for number
