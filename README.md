@@ -2,6 +2,10 @@
 ###### _Python Version 3.2.0_
 
 ### Unit 7: Functions
+* 7.2 Code Practice
+    * Question 1 - I love Python (Print Function)
+* 7.3 Code Practice
+    * Question 1 - Print Sum Function(s)
 * 7.4 Code Practice
     * Question 1 - Calculate GPA
     * Question 2 - Calculate weighted GPA
