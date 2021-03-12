@@ -5,32 +5,34 @@ This repository is open-source providing the code for Edhesive's "Intro to Compu
 ### Unit 6: Graphics
 ###### _Using SimpleGUI- This may not be functional depending on interpreter_
 * 6.3 Code Practice
-    * Question 1 - Random White Pixels 
+   * Question 1 - Random White Pixels 
 * 6.4 Code Practice
-    * Question 1 - Nested Squares
+   * Question 1 - Nested Squares
 * 6.5 Code Practice
-    * Question 1 - Draw House
+   * Question 1 - Draw House
 * 6.6 Code Practice
-    * Question 1 - Draw Boat
-    * Question 2 - Nested Circles
+   * Question 1 - Draw Boat
+   * Question 2 - Nested Circles
 * 6.7 Code Practice
-    * Question 1 - Emoticons
+   * Question 1 - Emoticons
 * 6.8 Code Practice
-    * Question 1 - Animation
+   * Question 1 - Animation
 
 ### Unit 7: Functions
 * 7.2 Code Practice
-    * Question 1 - I love Python (Print Function)
+   * Question 1 - I love Python (Print Function)
 * 7.3 Code Practice
-    * Question 1 - Print Sum Function(s)
+   * Question 1 - Print Sum Function(s)
 * 7.4 Code Practice
-    * Question 1 - Calculate GPA
-    * Question 2 - Calculate weighted GPA
+   * Question 1 - Calculate GPA
+   * Question 2 - Calculate weighted GPA
 * 7.5 Code Practice
-    * Question 1 - Calculate weighted GPA via classes.
+   * Question 1 - Calculate weighted GPA via classes.
 * Assignment 7 - Calendar
 
 ### Unit 8: Arrays
+* 8.3 Code Practice
+   * Question 1 - Array
 * 8.5 Code Practice
    * Question 1 - Twain Quotes
 * 8.6 Code Practice 
