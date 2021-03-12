@@ -21,3 +21,8 @@
    * Question 3 - Length of Array Elements
 * 8.9 Code Practice
    * Question 1 - Search for number
+* 8.10 Code Practice
+   * Question 1 - Swap X & Y
+   * Question 2 - Sorting "Vocab" (No sort function or swap function)
+   * Question 3 - Sorting "Terms" (Swap function instead, no Sort function)
+* Assignment 8 - Personal Organizer
