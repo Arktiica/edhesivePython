@@ -1,6 +1,6 @@
 # Edhesive: Python
 ###### _Python Version 3.2.0_
-This repository is open-source providing the code for Edhesive's "Intro to Computer Science." This code is written in Python as noted by the file types and repository name. Note that the modules will start at Unit 6: Graphics, and proceed through Unit 7: Functions, Unit 8: Arrays, and Unit 9: 2D Arrays (Adding Code Soon).
+This repository provides the code for Edhesive's "Intro to Computer Science" modules. This code is written in Python as noted by the file types and repository name. Note that the modules will start at Unit 6: Graphics, and proceed through Unit 7: Functions, Unit 8: Arrays, and Unit 9: 2D Arrays.
 
 ### Unit 6: Graphics
 ###### _Using SimpleGUI- This may not be functional depending on interpreter_
