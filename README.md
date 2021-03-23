@@ -49,3 +49,10 @@ This repository is open-source providing the code for Edhesive's "Intro to Compu
    * Question 2 - Sorting "Vocab" (No sort function or swap function)
    * Question 3 - Sorting "Terms" (Swap function instead, no Sort function)
 * Assignment 8 - Personal Organizer
+
+### Unit 9: 2D Arrays
+* 9.2 Code Practice
+  * Question 1 - 2D Array
+  * Question 2 - 2D Array \[+3]
+* 9.3 Code Practice
+  * Question 1 - Array Builder \[Grid]
