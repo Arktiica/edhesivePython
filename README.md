@@ -56,3 +56,5 @@ This repository provides the code for Edhesive's "Intro to Computer Science" mod
   * Question 2 - 2D Array \[+3]
 * 9.3 Code Practice
   * Question 1 - Array Builder \[Grid]
+* 9.4 Code Practice
+  * Question 1 - Algorithmic (Divisibility) Array 
