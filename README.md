@@ -57,4 +57,9 @@ This repository provides the code for Edhesive's "Intro to Computer Science" mod
 * 9.3 Code Practice
   * Question 1 - Array Builder \[Grid]
 * 9.4 Code Practice
-  * Question 1 - Algorithmic (Divisibility) Array 
+  * Question 1 - Algorithmic (Divisibility) Array
+* 9.5 Code Practice
+  * Question 1 - Add & Average 2D Arrays
+* 9.6 Code Practice
+  * Question 1 - Swapping Rows & Columns
+* Assignment 9 - 2D Arrays (Mirroring Horizontally & Vertically)
